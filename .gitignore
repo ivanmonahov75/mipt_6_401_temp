@@ -1,7 +1,16 @@
-.aider*
-
-# Virtual environments
 venv/
 .venv/
 env/
 .env/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+.DS_Store
+sem4/vpv.zip
+.aider*
