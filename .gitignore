@@ -1,6 +1,7 @@
 venv/
 .venv/
 env/
+.env/
 __pycache__/
 *.pyc
 *.pyo
@@ -12,3 +13,4 @@ __pycache__/
 *.out
 .DS_Store
 sem4/vpv.zip
+.aider*
